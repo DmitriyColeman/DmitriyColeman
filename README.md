@@ -1,2 +1,2 @@
-Russian student from Saint Peterburg. 
-Programming langs: Lua, C, ASM, PHP, javascript
+Software developer from Saint Petersburg, Russia.
+Languages: Lua, C, Assembly, PHP, JavaScript.
